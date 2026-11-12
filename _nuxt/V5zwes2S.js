@@ -1,0 +1,1 @@
+import{Zo as s,es as r,ns as n,ss as t}from"./C1_PBxCt.js";function e(e,a,o){if(!t(o))return!1;var i=typeof a;return!!("number"==i?s(o)&&n(a,o.length):"string"==i&&a in o)&&r(o[a],e)}export{e as t};
