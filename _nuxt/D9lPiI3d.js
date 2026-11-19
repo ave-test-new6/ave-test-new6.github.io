@@ -1,0 +1,1 @@
+import{D as t,p as i}from"./CLQTLZ1W.js";function n(n){if(null==n||""===n)return"";const r=t(n);return r.isFinite()?`${i(r.times(100))}%`:""}export{n as t};

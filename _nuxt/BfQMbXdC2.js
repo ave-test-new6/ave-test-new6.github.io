@@ -1,0 +1,1 @@
+import{N as i}from"./CLQTLZ1W.js";import{Si as o}from"./CKaCRtxC.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
